@@ -41,7 +41,7 @@ const dev = {
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=ts,js,cs,html,css,python" />
+<img src="https://skillicons.dev/icons?i=ts,js,cs,html,css" />
 
 ### Front-end
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
