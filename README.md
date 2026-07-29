@@ -7,15 +7,15 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/cassiano-rocha-moura"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cassianormoura07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://SEU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://gameon-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=m1zumy&style=for-the-badge&color=7C3AED&label=VISITAS" />
 </div>
 
 <br>
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 ```ts
 const dev = {
@@ -36,7 +36,7 @@ const dev = {
 
 <br>
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ const dev = {
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=m1zumy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&count_private=true&include_all_commits=true" />
